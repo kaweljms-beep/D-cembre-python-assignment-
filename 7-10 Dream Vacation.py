@@ -14,3 +14,4 @@ while polling:
 print("\n--- poll resluts ---")
 for name, Place in Responses.items():
     print(f"{name} wants to go to {Place}")
+
